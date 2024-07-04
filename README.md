@@ -9,7 +9,9 @@ Petit programme permettant de corriger les fautes d'orthographe dans le presse-p
 2. Changer la clé API dans boulot_X_bot
 
 3. Ouvrir un fichier texte en y entrant :
-    @echo off \n
+
+    @echo off
+    
     python Votre\Chemin\D_acces\monFichier.py
 
     Puis l'enregistrer en .bat
