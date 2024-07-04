@@ -12,7 +12,7 @@ Step pour faire fonctionner le script :
 @echo off
 python Votre\Chemin\D_acces\monFichier.py
 
-Puis enregistrer le en .bat
+    Puis enregistrer le en .bat
 
 4. Créer un raccourcis du .bat 
 
