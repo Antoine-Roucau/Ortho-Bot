@@ -16,7 +16,7 @@ Petit programme permettant de corriger les fautes d'orthographe dans le presse-p
 
     Puis l'enregistrer en .bat
 
-4. Créer un raccourci du .bat
+4. Créer un raccourci du .bat et le placer sur le bureau
 
 5. Aller dans les paramètres du raccourci pour assigner les touches de raccourci (Ctrl + Alt + Numpad 1)
 
